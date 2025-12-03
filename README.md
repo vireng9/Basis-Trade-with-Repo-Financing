@@ -2,7 +2,7 @@
   Note: Full code files available upon request
 
 ## **Overview**
-- Relative value arbitrage strategy trading the basis between cash government bonds and their futures, with the bond leg financed in the repo market.​
+- Relative value arbitrage strategy - trading the basis between cash government bonds and their futures, with the bond leg financed in the repo market.​
 - Targets mispricing between futures prices and cost‑of‑carry‑adjusted cash bond values, aiming for market‑neutral, rate‑hedged returns.
 - Provides a research and backtesting framework that can be extended to other fixed‑income relative value strategies.​
 
