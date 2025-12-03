@@ -32,7 +32,7 @@
 - PDF shows static version for quick review.
 - README.md shows project documentation.
 
-## ** Motivation**
+## **Motivation**
 - Relative value fixed‑income strategies aim to monetize pricing discrepancies between closely related instruments while minimizing exposure to broad rate moves. The cash–futures basis trade is a canonical example, where deviations between futures prices and the cost‑of‑carry‑adjusted cash bond value can become large due to funding conditions, balance sheet constraints, and risk sentiments, rather than changes in fundamental value.​
 - Repo financing is central to the economics of this trade, because it determines the effective cost of holding the long bond leg and therefore the fair basis level. By explicitly modeling repo rates, haircuts, and specials, this project seeks to distinguish between apparent and realizable arbitrage, helping to understand when high headline spreads compensate for funding, balance sheet, and liquidity risks.
 - A systematic, transparent implementation provides a platform for studying leverage, margin, and liquidity stresses in basis trades, which have been at the center of several market dislocations.
