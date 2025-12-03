@@ -1,4 +1,10 @@
 # **Relative Value Arbitrage – Basis Trade with Repo Financing**
+  Note: Full code files available upon request
+
+## **Overview**
+- Relative value arbitrage strategy trading the basis between cash government bonds and their futures, with the bond leg financed in the repo market.​
+- Targets mispricing between futures prices and cost‑of‑carry‑adjusted cash bond values, aiming for market‑neutral, rate‑hedged returns.
+- Provides a research and backtesting framework that can be extended to other fixed‑income relative value strategies.​
 
 ## **Mechanics:**
 - Cash Treasury (Leg 1) – The hedge fund buys a Treasury bond in the cash market.
@@ -20,5 +26,24 @@
 - Regulatory Changes – The SEC is expanding central clearing for Treasuries through the Fixed-Income Clearing Corporation, with significant dates from late 2025 into 2026. This reduces bilateral risk, improves margin efficiency, and promotes market stability.
 - 2025 Events – Despite April 2025 market volatility from tariff news, repo funding, and basis positions remained notably stable, in contrast to previous crises.
 - Ongoing risks – Financial stability concerns persist, as basis trades are exposed to funding and liquidity shocks. Regulators remain alert to the systemic risk posed by concentrated, leveraged positions.
+
+## **Files**
+- ipynb shows full interactive notebook with code, outputs and visualizations.
+- PDF shows static version for quick review.
+- README.md shows project documentation.
+
+##** Motivation**
+- Relative value fixed‑income strategies aim to monetize pricing discrepancies between closely related instruments while minimizing exposure to broad rate moves. The cash–futures basis trade is a canonical example, where deviations between futures prices and the cost‑of‑carry‑adjusted cash bond value can become large due to funding conditions, balance sheet constraints, and risk sentiments, rather than changes in fundamental value.​
+- Repo financing is central to the economics of this trade, because it determines the effective cost of holding the long bond leg and therefore the fair basis level. By explicitly modeling repo rates, haircuts, and specials, this project seeks to distinguish between apparent and realizable arbitrage, helping to understand when high headline spreads compensate for funding, balance sheet, and liquidity risks.
+- A systematic, transparent implementation also provides a platform for studying leverage, margin, and liquidity stresses in basis trades, which have been at the center of several market dislocations. The repository is intended for researchers and practitioners who want to experiment with these trades in a controlled environment and develop robust risk management practices around them.
+
+## **Author**
+
+**Viren Ghaghada**  
+[LinkedIn](https://www.linkedin/in/virenghaghada) | [Email](mailto:vireng9@yahoo.com) | [GitHub](https://www.github.com/vireng9) | [My Portfolio](https://vireng9.github.io/)  
+
+## **Disclaimer**
+This project is for educational and research purpose only. It should not be considered as a financial advice or a production-ready trading system.
+
 
 
