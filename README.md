@@ -40,7 +40,7 @@
 ## **Author**
 
 **Viren Ghaghada**  
-[LinkedIn](https://www.linkedin/in/virenghaghada) | [Email](mailto:vireng9@yahoo.com) | [GitHub](https://www.github.com/vireng9) | [My Portfolio](https://vireng9.github.io/)  
+[LinkedIn](https://www.linkedin.com/in/virenghaghada/) | [Email](mailto:vireng9@yahoo.com) | [GitHub](https://www.github.com/vireng9/) | [My Portfolio](https://vireng9.github.io/)  
 
 ## **Disclaimer**
 This project is for educational and research purpose only. It should not be considered as a financial advice or a production-ready trading system.
